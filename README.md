@@ -1,4 +1,4 @@
-# 🌐 Sachin K S — Premium Developer Portfolio
+# 🌐 Sachin K S — Portfolio
 
 A modern, responsive, and animated developer portfolio built using **React + Tailwind CSS + Framer Motion**.  
 Showcases my skills, projects, experience, and contact information in a clean and professional design.
