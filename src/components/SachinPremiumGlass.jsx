@@ -39,7 +39,7 @@ const projects = [
       "Review & rating system",
     ],
     live: "https://wonderlust-project-5gcq.onrender.com/",
-    repo: "https://github.com/Sachingowda89/wanderlust-project.git",
+    repo: "https://github.com/Sachingowda89/wonderlust-project.git",
     image: "/images/wanderlust-preview.png",
     tags: ["Express", "MongoDB", "EJS"],
   },
